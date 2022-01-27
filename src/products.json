@@ -1,0 +1,16 @@
+{
+   "products":[
+    {"pno":1,"pname": "Roseberry","price": 450, "quantity" : 20 ,"images": "shopp1.jpg" },
+    {"pno":2,"pname": "Cofee","price": 150, "quantity" : 200 ,"images": "shopp2.jpg" },
+    {"pno":3,"pname": "Crumbles","price": 100, "quantity" : 120 ,"images": "shopp3.jpg" },
+    {"pno":4,"pname": "Rice-Sticks","price": 70, "quantity" : 70 ,"images": "shopp4.jpg" },
+    {"pno":5,"pname": "Brown Bread","price": 200, "quantity" : 10 ,"images": "shopp5.jpg" },
+    {"pno":6,"pname": "Roseberry","price": 450, "quantity" : 20 ,"images": "shopp6.jpg" },
+    {"pno":7,"pname": "Cofee","price": 150, "quantity" : 200 ,"images": "shopp7.jpg" },
+    {"pno":8,"pname": "Crumbles","price": 100, "quantity" : 120 ,"images": "shopp8.jpg" },
+    {"pno":9,"pname": "Rice-Sticks","price": 70, "quantity" : 70 ,"images": "shopp9.jpg" },
+    {"pno":10,"pname": "Brown Bread","price": 200, "quantity" : 10 ,"images": "shopp10.jpg" }
+
+
+    ]
+}
